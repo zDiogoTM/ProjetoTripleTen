@@ -10,3 +10,6 @@ Ao clicar no botão "Criar histograma", o usuário pode visualizar a distribuiç
 
 Gráfico de Dispersão:
 O botão "Criar gráfico de dispersão" gera um gráfico interativo que mostra a relação entre a quilometragem (odometer) e o preço (price) dos veículos, ajudando a entender como esses dois fatores se correlacionam.
+
+Link de acesso:
+https://projetotripleten.onrender.com
